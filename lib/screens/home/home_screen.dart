@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_test/providers/product_provider.dart';
+import 'package:flutter_riverpod_test/providers/products_provider.dart';
 import 'package:flutter_riverpod_test/shared/cart_icon.dart';
 
 class HomeScreen extends ConsumerWidget {
